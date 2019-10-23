@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1542274266 source:d:\google drive\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\main.cpp
+	<iostream>
+	<fstream>
+	"sudokuSolver.h"
+
+1542274098 d:\google drive\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\sudokusolver.h
+	<fstream>
+
+1542274232 source:d:\google drive\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\sudokusolver.cpp
+	"sudokuSolver.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1542291862 source:d:\google drive\sudoku solver\main.cpp
+	<iostream>
+	<fstream>
+	"sudokuSolver.h"
+
+1542291885 d:\google drive\sudoku solver\sudokusolver.h
+	<fstream>
+
+1542636559 source:e:\google drive\obf\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"sudokuSolver.h"
+
+1542826690 e:\google drive\obf\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\sudokusolver.h
+	<fstream>
+
+1542827269 source:e:\google drive\obf\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\sudokusolver.cpp
+	"sudokuSolver.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+

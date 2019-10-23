@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1542615609 source:d:\c++ stuffs\ce 22\sudoku\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"sudokuSolver.h"
+
+1542618139 d:\c++ stuffs\ce 22\sudoku\sudokusolver.h
+	<fstream>
+
+1542617371 source:d:\c++ stuffs\ce 22\sudoku\sudokusolver.cpp
+	"sudokuSolver.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1542636559 source:e:\google drive\obf\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"sudokuSolver.h"
+
+1542808567 e:\google drive\obf\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\sudokusolver.h
+	<fstream>
+
+1542809398 source:e:\google drive\obf\school\second year\1st sem\ce 22\project 2 sudoku solver\sudoku solver\sudokusolver.cpp
+	"sudokuSolver.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
